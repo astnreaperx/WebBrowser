@@ -1,0 +1,10 @@
+C:\Users\WorkHorse\Documents\@Austin_Documnents\Personal\Coding\C#\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\WorkHorse\Documents\@Austin_Documnents\Personal\Coding\C#\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\WorkHorse\Documents\@Austin_Documnents\Personal\Coding\C#\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\WorkHorse\Documents\@Austin_Documnents\Personal\Coding\C#\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csprojAssemblyReference.cache
+C:\Users\WorkHorse\Documents\@Austin_Documnents\Personal\Coding\C#\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\WorkHorse\Documents\@Austin_Documnents\Personal\Coding\C#\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\WorkHorse\Documents\@Austin_Documnents\Personal\Coding\C#\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\WorkHorse\Documents\@Austin_Documnents\Personal\Coding\C#\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\WorkHorse\Documents\@Austin_Documnents\Personal\Coding\C#\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
+C:\Users\WorkHorse\Documents\@Austin_Documnents\Personal\Coding\C#\WebBrowser\WebBrowser\obj\Debug\WebBrowser.frmWebBrowser.resources
